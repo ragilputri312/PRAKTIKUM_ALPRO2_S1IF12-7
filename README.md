@@ -24,7 +24,7 @@ git clone https://github.com/UsernameGithub/PRAKTIKUM_ALPRO2_S1IF12-7.git
 
 ### 3️⃣ Buat dan Pindah ke Branch Sesuai NIM
 ```bash
-cd LABPP_2022_06
+cd PRAKTIKUM_ALPRO2_S1IF12-7
 git branch NIM_ANDA
 git checkout NIM_ANDA
 ```
